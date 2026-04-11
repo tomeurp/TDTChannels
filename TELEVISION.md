@@ -516,8 +516,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ETB 1 | [m3u8](https://cdn1.etbon.eus/etb1/index.m3u8) | [web](https://etbon.eus/ch/etb-1) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
-| ETB 2 | [m3u8](https://cdn1.etbon.eus/etb2/index.m3u8) | [web](https://etbon.eus/ch/etb-2) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
+| ETB 1 | [m3u8](https://cdn1.etbon.eus/etb1/index.m3u8) | [web](https://etbon.eus/ch/etb-1) | [logo](https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_ETB1_2026.svg) | ETB1.TV | - |
+| ETB 2 | [m3u8](https://cdn1.etbon.eus/etb2/index.m3u8) | [web](https://etbon.eus/ch/etb-2) | [logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/Logo_ETB2_2026.svg) | ETB2.TV | - |
 | ETB1 ON | [m3u8](https://cdn1.etbon.eus/etb1on/index.m3u8) | [web](https://etbon.eus/ch/etb-1on) | [logo](https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200) | ETB1ON.TV | - |
 | ETB2 ON | [m3u8](https://cdn1.etbon.eus/etb2on/index.m3u8) | [web](https://etbon.eus/ch/etb-2on) | [logo](https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200) | ETB2ON.TV | - |
 | ETB Eventos 1 | [m3u8](https://cdn1.etbon.eus/oc1/index.m3u8) | [web](https://etbon.eus/ch/oca-1) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBON_Oca1.TV | - |
